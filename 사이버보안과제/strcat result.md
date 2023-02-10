@@ -1,0 +1,1 @@
+![strcat](../IMAGE/strcat.png)
