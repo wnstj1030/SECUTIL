@@ -1,5 +1,3 @@
-# NewTIL
+# SECUTIL
 
-### 매일 배운 내용을 정리한다. (Today I Learn) 
-
-### 정리한 내용을 정리하는 레포🤓
+### 매일 배운 보안 공부 내용을 정리한다. (Security Today I Learn) 
